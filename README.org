@@ -1,0 +1,4 @@
+* Apresentação Aplicações de Pentóxido de Nióbio
+
+#+ATTR_HTML: :width 500px
+[[file:img/apresentacao.png][file:~/PP/ProjInteg2/img/apresentacao.png]]

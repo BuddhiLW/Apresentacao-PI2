@@ -1,0 +1,80 @@
+:REVEAL_PROPERTIES:
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_REVEAL_JS_VERSION: 4
+#+REVEAL_EXTRA_CSS: ./css/blood.css
+#+REVEAL_EXTERNAL_PLUGINS: (spotlight "~PP/Presentations/js/spotlight.js" "~PP/Presentations/plugin/spotlight.js")
+#+REVEAL_PLUGINS: (highlight)
+#+REVEAL_HIGHLIGHT_CSS: https://cdn.jsdelivr.net/npm/reveal.js@4.2.0/plugin/highlight/monokai.css
+#+OPTIONS: reveal_global_footer:t
+#+OPTIONS: timestamp:nil toc:2 num:nil
+:END:
+
+# #+REVEAL_EXTERNAL_PLUGINS: (spotlight . "js/spotlight.js") (spotconf
+# . "plugin/spotlight.js")
+
+# #+startup: latexpreview
+# #+startup: imagepreview
+
+#+title: Nióbio, Aplicações
+#+EMAIL: pedro.branquinho@usp.br
+#+AUTHOR: Universidade de São Paulo - DEMAR
+# Pedro G. Branquinho
+# #+DATE: Universidade de São Paulo - DEMAR
+# bibliography:~/Bibliography/collection.bib
+
+* *Propriedades Fundamentais*
+** Como Pentóxido ($\text{Nb}_{2}\text{O}_{5}$)
+O pentóxido de nióbio foi primeiramente estudado na década de 40,
+porém, continua sem emplaque no mercado, _Rani et al. 2014_.
+
+*** Geral
+- Resistência à corrosão, _Rani et al. 2014_.
+- Termodinamicamente estável, _Rani et al. 2014_.
+- Durabilidade em MEMS (Eletro-Mechanical Systems)
+  + 2500 dobragens sem perder a característica física.
+- Transmitância de até 92%, _Usha et al. 2015_.
+- Alta durabilidade de baterias e supercapacitores.
+
+* Cinco aplicações, com maior citações acadêmicas
+** Metodologia de pesquisa da literatura
+Procura pelo termo, nos sites de indexação acadêmicas:
+- =niobium applications=.
+
+*** Análise dos artigos:
+- Thin films and nanostructures of niobium pentoxide: fundamental
+  properties, synthesis methods and applications, _Rani et al. 2014_.
+
+** Pentóxido de Nióbio
+** Células foltovoltáicas e LEDs.
+*** Eficiência
+- Eficiência em células fotovoltáicas puras, de 1.3-3.5%, _Rani et al. 2019_.
+  + Em média, obtém-se valores de 2.41% de conversão de energia, _Ghosh et al. 2011_.
+  + Filmes finos - células solares sensibilizada corante (DSSCs).
+  + Também conhecidas como células Grätzel.
+
+*** Mudança por dopagem ou método de síntese
+- Dependendo do método de crescimento do cristal, as propriedades
+  físicas mudam.
+  + Crescimento hidrotérmico podem elevar a taxa de conversão para 6%.
+
+*** Desafios e análises em aberto
+- Pouca pesquisa feita para descoberta de síntese maximizando
+  conversão fotovoltáica.
+- Substituição ou aprimoramento do papel de $\text{TiO}_{2}$.
+
+** Outras aplicações promissoras
+*** Sensores
+- Gás.
+- Umidade.
+- Sensor biológico e químico.
+- Detecção de fótons.
+
+*** Baterias (LIBs) e Supercapacitores, _Ma et al. 2020_ 
+- Aumento da quatidade de ciclos sem alterações físico-químicas.
+- Ecologicamente amigável.
+  
+*** Catalisadores em alta temperatura.
+*** Memristors (Memória de computador).
+*** Capacitores.
+*** FETs.
+  
